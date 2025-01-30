@@ -1,0 +1,46 @@
+{"intents":[
+{
+    "tag":"greeting",
+    "patterns":["Hi","How are you doing","What is up","Hello","Have a good day","What is up","Hey","greetings"],
+    "responses":["Hello!","Good to see you again","How can I help you?"]
+},
+{
+    "tag":"Goodbye",
+    "patterns":["Cya","See you later","Good bye","I am leaving","Have a good day","Bye","ciao","see ya","adios"],
+    "responses":["Until next time","Talk to you later","Goodbye","adios amigo"]
+},
+
+{
+    "tag":"Programming",
+    "patterns":["What is programming","What is coding","Tell me about programming","Tell me about coding","What is software development"],
+    "responses":["Programming,coding or software development ,means writing computer code to automate tasks."]
+},
+
+{
+    "tag":"how",
+    "patterns":["Are you okay","How is your day","How do you feel","Are you good"],
+    "responses":["I am fine,thanks for asking!","I feel great!"]
+},
+{
+    "tag":"flask",
+    "patterns":["What is flask?","Do you know about flask","Can you tell me about flask?","Explain me about flask"],
+    "responses":["Flask is a python web development Framework,which is very simple and minimalistic"]
+},
+{
+    "tag":"food",
+    "patterns":["What is your favourite food","Which food you like","How do you like your food"],
+    "responses":["I like spicy food","I like Chicken Biriyani"]
+}
+]
+}
+
+
+
+
+
+
+
+
+
+
+
